@@ -1,4 +1,4 @@
 # FAN CONTROL UNIT WITH ARDUINO
-sourcecode for fan control unit with arduino Nano
+Sourcecode for fan control unit with Arduino Nano V3.0
 
 Find detailed information on https://www.techniccontroller.de/
